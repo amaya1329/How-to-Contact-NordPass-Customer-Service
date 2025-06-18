@@ -7,7 +7,7 @@ How to Contact Nordpass Customer Service?
 
 NordPass is one of the most trusted password managers in the industry. It was created by Nord Security, the same company behind other well-known security products like NordVPN. However, just like with any other online service, customer support plays a crucial role in ensuring users have a seamless experience. This document goes into detail about NordPass's customer service, how to get in touch with them, the quality of their support, and what makes them stand out from other companies.
 
-.. image:: service.png
+.. image:: click-service.png
    :alt: My Project Logo
    :width: 400px
    :align: center
